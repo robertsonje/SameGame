@@ -1,5 +1,5 @@
 # SameGame
----
+
 ## Table of Contents
 
 - Description
